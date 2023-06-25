@@ -11,8 +11,8 @@
 - [定位代码](#定位代码)
 - [开源协议](#开源协议)
 ## Badge
-[![LICENSE](https://img.shields.io/badge/license-GPL-blue)
-[![Python](https://img.shields.io/badge/Python-3.10-blue)
+![LICENSE](https://img.shields.io/badge/license-GPL-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 
 ## 项目背景
