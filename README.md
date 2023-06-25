@@ -11,8 +11,10 @@
 - [定位代码](#定位代码)
 - [开源协议](#开源协议)
 ## Badge
+[![LICENSE](https://img.shields.io/badge/license-GPL-blue)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)
 
-// Badge代码
+
 ## 项目背景
 
 本项目是笔者在南航本科21级物联网应用实践课程实验中，在小组实验中关于笔者参与部分的相关资料（代码，报告初稿，图表，数据等）。供笔者和有需要人士查阅浏览与参考。
