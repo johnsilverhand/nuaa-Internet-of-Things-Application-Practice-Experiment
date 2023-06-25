@@ -1,0 +1,2 @@
+# nuaa-Internet-of-Things-Application-Practice-Experiment
+21级南航物联网应用实践实验（基于无线指纹库的蓝牙室内定位实验）本项目是笔者在南航本科21级物联网应用实践课程实验中，在小组实验中关于笔者参与部分的相关资料
